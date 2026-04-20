@@ -1,4 +1,4 @@
-# 🎭 EmoSense — Face Emotion Detector
+# 🎭 Prakash-EmoSense — Face Emotion Detector
 
 > Real-time face emotion detection dashboard powered by AI, built with React + Vite and face-api.js.
 
