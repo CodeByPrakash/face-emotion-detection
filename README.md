@@ -59,6 +59,12 @@ Face-Emotion-Detection/
 
 ## 🚀 Getting Started
 
+### Preview
+![Preview](https://github.com/CodeByPrakash/face-emotion-detection/raw/main/preview.png)
+
+### Preview-Chat
+![Preview](https://github.com/CodeByPrakash/face-emotion-detection/raw/main/preview-chat.png)
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) v18+
